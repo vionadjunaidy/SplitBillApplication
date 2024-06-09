@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx/15.0.1"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:id="scene2VBox"
+            fx:controller="com.example.javafx.SplitBillController"
+            alignment="TOP_LEFT"
+            spacing="10">
+
+</VBox>
